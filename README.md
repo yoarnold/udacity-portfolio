@@ -3,5 +3,5 @@
 A portfolio concept.
 
 ## Attributions
-* Icon made by Freepik from www.flaticon.com 
+* Icons made by Freepik from www.flaticon.com 
 
