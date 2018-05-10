@@ -1,0 +1,36 @@
+body {
+	background: #333333;
+	color: #fff;
+}
+
+header {
+	margin: 20px 0px;
+	padding: 20px 0px;
+	border-bottom: 2px solid #fff;
+}
+
+.social-media {
+	padding-top: 15px;
+	text-align: right;
+}
+.social-media-icons {
+	width: 40px;
+	height: 40px;
+}
+
+#featured-work {
+	margin-top: 40px;
+}
+
+#featured-work h4 {
+	padding-top: 10px;
+}
+
+
+/* MEDIA QUERIES */
+@media screen and (max-width: 575px) {
+	.social-media {
+		text-align: left;
+	}
+
+}
